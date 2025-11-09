@@ -7,6 +7,10 @@ This is the code for article "Multi-Constraint Enhanced DWA for Robust and Smoot
 
 ---
 
+```
+PS: maps: some with feasiable paths while some are not since these maps are randomly generated.
+```
+
 The method enhances the trajectory evaluation by introducing several refined constraint metrics, such as
 - dual-angle heading deviation；
 - global path adherence；
